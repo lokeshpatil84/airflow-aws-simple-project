@@ -1,0 +1,91 @@
+Id,Tracker,Parent task,Parent task subject,Status,Priority,Subject,Author,Assigned To,Updated,Category,Target version,Planned Start date,Planned End date,Estimated Effort,Total estimated time,Spent time,Total spent time,% Done,Created,Closed,Last updated by,Related issues,Files,Checklist assignees,Block text,Acceptance Criteria,Est. Story Point:,Est. T-Shirt Size,Estimated Size(SLOC/TC/Other),Size UOM,Estimated Effort (Person Hour),Actual Size (SLOC/TC/Other),Rejected Reason,Tracking Comments,Issue Work Category,Issue Work Type,Remaining Effort (Person Hour),Estimated DF,Actual DF,Cancelled Reason,Defect Category,Work Product Version,Found During,CR Classification,CR Cost (in USD),Risk Source,Customer Visibility,Risk Probability,Risk Impact,Risk Weight,RPN,Anticipated Date of Occurrence,Planned Mitigation End Date,Actual Date of Occurrence,Actual Mitigation End Date,Expired Reason,Reported By,Action Source,Actual Start Date,Actual End Date,Approved By (CCB Chairperson),Issue Resolution,VOC Type,Received By,Received Via,Classification,Customer Contact Name,Risk Category,Mitigation Plan,Contingency Plan,Reviewed Products & Versions,Moderator,Reviewers,Uniphase,Risk Mitigation Strategy,Alternate Mechanisms,Process Exempted,CCB Meeting Minutes,Retrospection Date,Lesson Category,Recommendation,Source,Submit Knowledge?,Dissemination Level,Severity,Effort Type,Progress Status,Dependency,Item Billable?,ASIL Level,CAL Level,Escaped From,Aligned Customer Milestone,Cust ML's Expected RL Maturity,Release Type,KPIT Release Gate,Release Deliverables,KPIT Release Maturity,Customer Expected Date,Actual Release Date,Released to Contact,Release Authorised By QAE,Release Authorized By,Release received by Customer,Artefact Reviewed with Cust,Release Scope,Link to Output Work Products,Link to Input Work Products,Received Date,Private,Tags,Input link,Rb Story Points,Velocity based estimate,Position,Remaining (hours),Release,Backlog type
+424396,User Story,,,New,Normal,VVAA-1222-Fail to pass re-execution,Lokesh Patil,,11/3/2025 16:55,,sprint25_DI,10/30/2025,11/3/2025,,5,0,0,100,10/30/2025 22:25,,Manju Srinivasan,,,,,"1. Each test script must accurately execute the defined test case steps.
+2. Scripts should not cause unintended side effects on the system under test.
+3. Scripts should easily integrate into the designated environment (e.g., test frameworks, CI/CD pipelines).
+4. Scripts can be executed within the Ford environment.
+5. 100% traceability must exist between test scripts, test cases, and associated requirements.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11/3/2025,11/3/2025,Aparna Joshi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Git commit,Test rail,,No,,,,,20418762,0,,story
+424371,User Story,,,New,Normal,VVAA-1015-Fail to pass re-execution,Lokesh Patil,,11/3/2025 16:55,,sprint25_DI,10/30/2025,11/3/2025,,3,0,0,100,10/30/2025 22:01,,Manju Srinivasan,,,,,"1. Each test script must accurately execute the defined test case steps.
+2. Scripts should not cause unintended side effects on the system under test.
+3. Scripts should easily integrate into the designated environment (e.g., test frameworks, CI/CD pipelines).
+4. Scripts can be executed within the Ford environment.
+5. 100% traceability must exist between test scripts, test cases, and associated requirements.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11/3/2025,11/3/2025,Aparna Joshi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Git commit,Test rail,,No,,,,,20417512,0,,story
+424324,User Story,,,New,Normal,VVAA-42-Fail to pass re-execution,Lokesh Patil,,11/3/2025 16:55,,sprint25_DI,10/30/2025,11/3/2025,,3,0,0,100,10/30/2025 21:12,,Manju Srinivasan,,,,,"1. Each test script must accurately execute the defined test case steps.
+2. Scripts should not cause unintended side effects on the system under test.
+3. Scripts should easily integrate into the designated environment (e.g., test frameworks, CI/CD pipelines).
+4. Scripts can be executed within the Ford environment.
+5. 100% traceability must exist between test scripts, test cases, and associated requirements.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11/3/2025,11/3/2025,Aparna Joshi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Git commit,Test rail,,No,,,,,20415162,0,,story
+424313,User Story,,,New,Normal,VVAA-1039-Fail to pass re-execution,Lokesh Patil,,11/3/2025 16:55,,sprint25_DI,10/30/2025,11/3/2025,,12,0,0,100,10/30/2025 20:56,,Manju Srinivasan,,,,,"1. Each test script must accurately execute the defined test case steps.
+2. Scripts should not cause unintended side effects on the system under test.
+3. Scripts should easily integrate into the designated environment (e.g., test frameworks, CI/CD pipelines).
+4. Scripts can be executed within the Ford environment.
+5. 100% traceability must exist between test scripts, test cases, and associated requirements.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11/3/2025,11/3/2025,Aparna Joshi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Git commit,Test rail,,No,,,,,20414662,0,,story
+424300,User Story,,,New,Normal,VVAA-999-Fail to pass re-execution,Lokesh Patil,,11/3/2025 16:55,,sprint25_DI,10/30/2025,11/3/2025,,10,0,0,100,10/30/2025 20:50,,Manju Srinivasan,,,,,"1. Each test script must accurately execute the defined test case steps.
+2. Scripts should not cause unintended side effects on the system under test.
+3. Scripts should easily integrate into the designated environment (e.g., test frameworks, CI/CD pipelines).
+4. Scripts can be executed within the Ford environment.
+5. 100% traceability must exist between test scripts, test cases, and associated requirements.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11/3/2025,11/3/2025,Aparna Joshi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Git commit,Test rail,,No,,,,,20414012,0,,story
+423758,User Story,,,New,Normal,VVAA-1013-Fail to pass re-execution,Jaydip Patil,,11/3/2025 16:55,,sprint25_DI,10/30/2025,11/3/2025,,5.5,0,0,100,10/30/2025 16:24,,Manju Srinivasan,,,,,"1. Each test script must accurately execute the defined test case steps.
+2. Scripts should not cause unintended side effects on the system under test.
+3. Scripts should easily integrate into the designated environment (e.g., test frameworks, CI/CD pipelines).
+4. Scripts can be executed within the Ford environment.
+5. 100% traceability must exist between test scripts, test cases, and associated requirements.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11/3/2025,11/3/2025,Aparna Joshi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Git commit,Test rail,,No,,,,,20387862,0,,story
+423755,User Story,,,New,Normal,VVAA-1053-Fail to pass re-execution,Jaydip Patil,,11/3/2025 16:55,,sprint25_DI,10/30/2025,11/3/2025,,10,0,0,100,10/30/2025 16:23,,Manju Srinivasan,,,,,"1. Each test script must accurately execute the defined test case steps.
+2. Scripts should not cause unintended side effects on the system under test.
+3. Scripts should easily integrate into the designated environment (e.g., test frameworks, CI/CD pipelines).
+4. Scripts can be executed within the Ford environment.
+5. 100% traceability must exist between test scripts, test cases, and associated requirements.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11/3/2025,11/3/2025,Aparna Joshi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Git commit,Test rail,,No,,,,,20387712,0,,story
+423691,User Story,,,New,Normal,VVAA-1234-Fail to pass re-execution,Jaydip Patil,,11/3/2025 16:55,,sprint25_DI,10/30/2025,11/3/2025,,10,0,0,100,10/30/2025 16:09,,Manju Srinivasan,,,,,"1. Each test script must accurately execute the defined test case steps.
+2. Scripts should not cause unintended side effects on the system under test.
+3. Scripts should easily integrate into the designated environment (e.g., test frameworks, CI/CD pipelines).
+4. Scripts can be executed within the Ford environment.
+5. 100% traceability must exist between test scripts, test cases, and associated requirements.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11/3/2025,11/3/2025,Aparna Joshi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Git commit,Test rail,,No,,,,,20384862,0,,story
+423662,User Story,,,New,Normal,VVAA-1227-Fail to pass re-execution,Jaydip Patil,,11/3/2025 16:55,,sprint25_DI,10/30/2025,11/3/2025,,6,0,0,100,10/30/2025 16:00,,Manju Srinivasan,,,,,"1. Each test script must accurately execute the defined test case steps.
+2. Scripts should not cause unintended side effects on the system under test.
+3. Scripts should easily integrate into the designated environment (e.g., test frameworks, CI/CD pipelines).
+4. Scripts can be executed within the Ford environment.
+5. 100% traceability must exist between test scripts, test cases, and associated requirements.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11/3/2025,11/3/2025,Aparna Joshi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Git commit,Test rail,,No,,,,,20383462,0,,story
+423624,User Story,,,New,Normal,VVAA-939-Fail to pass re-execution,Jaydip Patil,,11/3/2025 16:55,,sprint25_DI,10/30/2025,11/3/2025,,5,0,0,100,10/30/2025 15:46,,Manju Srinivasan,,,,,"1. Each test script must accurately execute the defined test case steps.
+2. Scripts should not cause unintended side effects on the system under test.
+3. Scripts should easily integrate into the designated environment (e.g., test frameworks, CI/CD pipelines).
+4. Scripts can be executed within the Ford environment.
+5. 100% traceability must exist between test scripts, test cases, and associated requirements.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11/3/2025,11/3/2025,Aparna Joshi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Git commit,Test rail,,No,,,,,20381612,0,,story
+423601,User Story,,,New,Normal,VVAA-1230-Fail to pass re-execution,Jaydip Patil,,11/3/2025 16:55,,sprint25_DI,10/30/2025,11/3/2025,,5.5,0,0,100,10/30/2025 15:38,,Manju Srinivasan,,,,,"1. Each test script must accurately execute the defined test case steps.
+2. Scripts should not cause unintended side effects on the system under test.
+3. Scripts should easily integrate into the designated environment (e.g., test frameworks, CI/CD pipelines).
+4. Scripts can be executed within the Ford environment.
+5. 100% traceability must exist between test scripts, test cases, and associated requirements.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11/3/2025,11/3/2025,Aparna Joshi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Git commit,Test rail,,No,,,,,20380562,0,,story
+423556,User Story,,,New,Normal,VVAA-1054_failed-to-pass_Re-execution,Jaydip Patil,,11/3/2025 16:55,,sprint25_DI,10/30/2025,11/3/2025,,5.5,0,0,100,10/30/2025 15:22,,Manju Srinivasan,,,,,"1. Each test script must accurately execute the defined test case steps.
+2. Scripts should not cause unintended side effects on the system under test.
+3. Scripts should easily integrate into the designated environment (e.g., test frameworks, CI/CD pipelines).
+4. Scripts can be executed within the Ford environment.
+5. 100% traceability must exist between test scripts, test cases, and associated requirements.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11/3/2025,11/3/2025,Aparna Joshi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Git commit,Test rail,,No,,,,,20378462,0,,story
+422344,User Story,,,New,Normal,VVAA-973_failed-to-pass_Re-execution,Lokesh Patil,,11/3/2025 16:55,,sprint25_DI,10/29/2025,11/3/2025,,10,0,0,100,10/29/2025 21:33,,Manju Srinivasan,,,,,"1. Each test script must accurately execute the defined test case steps.
+2. Scripts should not cause unintended side effects on the system under test.
+3. Scripts should easily integrate into the designated environment (e.g., test frameworks, CI/CD pipelines).
+4. Scripts can be executed within the Ford environment.
+5. 100% traceability must exist between test scripts, test cases, and associated requirements.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11/3/2025,11/3/2025,Aparna Joshi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Git commit,Test rail,,No,,,,,20320212,0,,story
+422340,User Story,,,New,Normal,VVAA-1400_failed-to-pass_Re-execution,Lokesh Patil,,11/3/2025 16:55,,sprint25_DI,10/29/2025,11/3/2025,,19,0,0,100,10/29/2025 21:32,,Manju Srinivasan,,,,,"1. Each test script must accurately execute the defined test case steps.
+2. Scripts should not cause unintended side effects on the system under test.
+3. Scripts should easily integrate into the designated environment (e.g., test frameworks, CI/CD pipelines).
+4. Scripts can be executed within the Ford environment.
+5. 100% traceability must exist between test scripts, test cases, and associated requirements.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11/3/2025,11/3/2025,Aparna Joshi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Git commit,Test rail,,No,,,,,20320012,0,,story
+422339,User Story,,,New,Normal,VVAA-26_failed-to-pass_Re-execution,Lokesh Patil,,11/3/2025 16:55,,sprint25_DI,10/29/2025,11/3/2025,,10,0,0,100,10/29/2025 21:31,,Manju Srinivasan,,,,,"1. Each test script must accurately execute the defined test case steps.
+2. Scripts should not cause unintended side effects on the system under test.
+3. Scripts should easily integrate into the designated environment (e.g., test frameworks, CI/CD pipelines).
+4. Scripts can be executed within the Ford environment.
+5. 100% traceability must exist between test scripts, test cases, and associated requirements.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11/3/2025,11/3/2025,Aparna Joshi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Git commit,Test rail,,No,,,,,20319962,0,,story
+421271,User Story,,,New,Normal,Project support activities,Jaydip Patil,,11/3/2025 17:39,,sprint25_DI,10/29/2025,11/3/2025,,187.5,0,0,100,10/29/2025 12:28,,Manju Srinivasan,,,,,"1. Each test script must accurately execute the defined test case steps.
+2. Scripts should not cause unintended side effects on the system under test.
+3. Scripts should easily integrate into the designated environment (e.g., test frameworks, CI/CD pipelines).
+4. Scripts can be executed within the Ford environment.
+5. 100% traceability must exist between test scripts, test cases, and associated requirements.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11/3/2025,11/3/2025,Aparna Joshi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Git commit,Test rail,,No,,,,,20269012,0,,story
+421240,User Story,,,New,Normal,VVAA-1229-Fail to pass re-execution,Jaydip Patil,,11/3/2025 16:55,,sprint25_DI,10/29/2025,11/3/2025,,10,0,0,100,10/29/2025 12:21,,Manju Srinivasan,,,,,"1. Each test script must accurately execute the defined test case steps.
+2. Scripts should not cause unintended side effects on the system under test.
+3. Scripts should easily integrate into the designated environment (e.g., test frameworks, CI/CD pipelines).
+4. Scripts can be executed within the Ford environment.
+5. 100% traceability must exist between test scripts, test cases, and associated requirements.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11/3/2025,11/3/2025,Aparna Joshi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Git commit,Test rail,,No,,,,,20267662,0,,story
+421231,User Story,,,New,Normal,VVAA-35-Fail to pass re-execution,Jaydip Patil,,11/3/2025 16:37,,sprint25_DI,10/29/2025,11/3/2025,,18.5,0,0,100,10/29/2025 12:19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,,,,20267312,0,,story
+421156,User Story,,,New,Normal,VVAA-1401-Fail to pass re-execution,Jaydip Patil,,11/3/2025 17:39,,sprint25_DI,10/29/2025,11/3/2025,,15,0,0,100,10/29/2025 12:10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,,,,20263762,0,,story
+421138,User Story,,,New,Normal,VVAA-1385-Fail to pass re-execution,Jaydip Patil,,11/3/2025 17:39,,sprint25_DI,10/29/2025,11/3/2025,,12,0,0,100,10/29/2025 12:06,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,,,,20262962,0,,story
+421105,User Story,,,New,Normal,VVAA-1007-Fail to pass re-execution,Jaydip Patil,,11/3/2025 17:39,,sprint25_DI,10/29/2025,11/3/2025,,10,0,0,100,10/29/2025 11:58,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,,,,20261412,0,,story
+421104,User Story,,,New,Normal,VVAA-1237-Fail to pass re-execution,Jaydip Patil,,11/3/2025 17:39,,sprint25_DI,10/29/2025,11/3/2025,,23.5,0,0,100,10/29/2025 11:57,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,,,,20261362,0,,story
